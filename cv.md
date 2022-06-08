@@ -41,5 +41,5 @@ I'm a fast-learning and detail-oriented Frontend Software Engineer. I'm seeking 
 ## Language:
 English — A1
 
-### HTML CV watch 
+## HTML CV watch:
 [https://webtechnologic.github.io/cv/](https://webtechnologic.github.io/cv)
