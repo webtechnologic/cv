@@ -32,8 +32,8 @@ I'm a fast-learning and detail-oriented Frontend Software Engineer. I'm seeking 
 2022 - Frontend developer. Implemented several projects using JavaScript. Please see portfolio section below.
 
 ## Portfolio:
-- Digital service  https://webtechnologic.github.io/digital-service-landing-page/
-- Crypto exchange  https://webtechnologic.github.io/crypto-exchange-landing-page/
+- Digital Service [https://webtechnologic.github.io/digital-service-landing-page/](https://webtechnologic.github.io/digital-service-landing-page/)
+- Crypto exchange  [https://webtechnologic.github.io/crypto-exchange-landing-page/](https://webtechnologic.github.io/crypto-exchange-landing-page/)
 
 ## Education:
 2021 - 2022 Rolling Scopes School. JavaScript/Front-end Course (Online)
@@ -41,4 +41,5 @@ I'm a fast-learning and detail-oriented Frontend Software Engineer. I'm seeking 
 ## Language:
 English — A1
 
-### HTML CV watch https://webtechnologic.github.io/cv/
+### HTML CV watch 
+[https://webtechnologic.github.io/cv/](https://webtechnologic.github.io/cv)
