@@ -6,7 +6,7 @@ __Location:__ Current location - Minsk, Belarus. I plan to relocate to Lithuania
 
 __Phone:__ +375 29 709 02 00
 
-__Linkdin:__ [https://www.linkedin.com/in/pavel-lutsenko-885688241/](https://www.linkedin.com/in/pavel-lutsenko-885688241/)
+__LinkdIn:__ [https://www.linkedin.com/in/pavel-lutsenko-885688241/](https://www.linkedin.com/in/pavel-lutsenko-885688241/)
 
 __E-mail:__ webtechexdev@gmail.com
 
