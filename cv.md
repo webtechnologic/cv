@@ -1,12 +1,12 @@
 # PAVEL LUTSENKO 
-## JUNIOR FRONTEND DEVELOPPER
+## JUNIOR FRONTEND DEVELOPER
 
 ## Contacts:
 __Location:__ Current location - Minsk, Belarus. I plan to relocate to Lithuania in fall 2022
 
 __Phone:__ +375 29 709 02 00
 
-__Linkdin:__ linkdin.com/in/yourname
+__Linkdin:__ [https://www.linkedin.com/in/pavel-lutsenko-885688241/ (https://www.linkedin.com/in/pavel-lutsenko-885688241/)
 
 __E-mail:__ webtechexdev@gmail.com
 
